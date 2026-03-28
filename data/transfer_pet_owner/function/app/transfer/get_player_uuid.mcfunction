@@ -1,0 +1,1 @@
+$data modify storage transfer_pet_owner:root data.Book_UUID set from entity $(Book_Player) UUID

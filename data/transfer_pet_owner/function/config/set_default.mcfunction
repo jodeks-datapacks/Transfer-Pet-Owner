@@ -1,0 +1,3 @@
+execute unless data storage transfer_pet_owner:root data.transfer_owner_players run data modify storage transfer_pet_owner:root data.transfer_owner_players set value []
+execute unless score &config check.transfer_pet_owner = &config check.transfer_pet_owner run scoreboard players set &config check.transfer_pet_owner 0
+data modify storage transfer_pet_owner:root data.dialog_player set value "$(dialog_player)"
