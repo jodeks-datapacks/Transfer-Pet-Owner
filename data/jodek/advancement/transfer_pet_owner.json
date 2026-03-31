@@ -33,18 +33,6 @@
         "text": "\n"
       },
       {
-        "translate": "jodek.game_version",
-        "fallback": "Game version: ",
-        "color": "dark_green"
-      },
-      {
-        "text": "1.21.6+",
-        "color": "green"
-      },
-      {
-        "text": "\n"
-      },
-      {
         "text": "modrinth.com/datapack/transfer-pet-owner",
         "color": "dark_purple"
       }
