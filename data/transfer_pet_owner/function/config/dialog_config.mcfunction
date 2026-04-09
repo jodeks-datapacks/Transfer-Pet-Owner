@@ -18,7 +18,7 @@ $dialog show @s {\
       "type": "minecraft:plain_message",\
       "contents": {\
         {\
-          "translate": "transfer_pet_owner.config.add_player",\
+          "translate": "transfer_pet_owner.config.add_players",\
           "fallback": "Add players that can transfer any pet"\
         }\
       }\
