@@ -1,6 +1,5 @@
 {
   "values": [
-    "transfer_pet_owner:app/load_message",
     "transfer_pet_owner:app/setup"
   ]
 }

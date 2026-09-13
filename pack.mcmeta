@@ -9,12 +9,6 @@
       {
         "text": "\"Transfer Pet Owner\" (transfer_pet_owner)"
       },
-      "\n",
-      {
-        "translate": "transfer_pet_owner.description",
-        "fallback": "Transfer your pets to other players",
-        "color": "#aaaaaa"
-      },
       "\n\n",
       {
         "translate": "jodek.version",
@@ -24,7 +18,7 @@
         "text": " "
       },
       {
-        "text": "2.1.3",
+        "text": "2.2.0",
         "color": "#55ff55"
       },
       "\n",
